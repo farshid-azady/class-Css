@@ -18,7 +18,7 @@
 - #### A vendor prefixes is a special prefix added to a CSS property. Each rendering engine has it's own prefix which will only apply the property to that particular browser. Vender Prefixes in 2017. Much less necessary, but still used. if you use the Old Browser Like IE6/IE7/IE8 then you should add this vendor prefixes.
 
 - ### Directions
-  - - - directions : the name of our custom class with vendor prefix
+  -  - directions : the name of our custom class with vendor prefix
   - .directions{
   -         writing-mode: vertical-lr;
   -        -webkit-writing-mode: vertical-lr;
@@ -35,8 +35,8 @@
 }
 
 - img{
-      width: 100%;
-      height: 100%;
+-      width: 100%;
+-      height: 100%;
 -     object-fit: cover;
 -     vertical-align: middle; */
 -     Uncomment the following line to apply a filter effect */
