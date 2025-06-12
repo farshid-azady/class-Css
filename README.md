@@ -20,9 +20,9 @@
 - ### Directions
   - - - directions : the name of our custom class with vendor prefix
   - - .directions{
-            -  writing-mode: vertical-lr;
-            - -webkit-writing-mode: vertical-lr;
-            -  -ms-writing-mode: vertical-lr;
+  -          -  writing-mode: vertical-lr;
+  -         - -webkit-writing-mode: vertical-lr;
+  -          -  -ms-writing-mode: vertical-lr;
             }
   
 
