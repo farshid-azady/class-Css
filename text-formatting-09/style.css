@@ -16,9 +16,16 @@
     /* text-overflow: ellipsis; */
     /* text-decoration: none; */
     /* word-wrap: none; */
+    /* word-break: normal; */
+    /* text-align: justify; */
     /* cursor: pointer; */
     /* transition: background-color 0.3s ease, color 0.3s ease; */
 
+}
+.directions{
+    writing-mode: vertical-lr;
+    -webkit-writing-mode: vertical-lr;
+    -ms-writing-mode: vertical-lr;
 }
 Uncomment the following lines to apply styles on hover Just for hinting purposes 
 .no-wrapper:hover{
