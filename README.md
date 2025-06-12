@@ -12,4 +12,5 @@ when we have a space that smaller than our text size, it will be white.
 -  5-word-wrap: none;
 -  6-cursor: pointer;
 ### vendor prefix for this property is -ms- or -o- or -moz- or -webkit- or -khtml-
+- #### A vendor prefixes is a special prefix added to a CSS property. Each rendering engine has it's own prefix which will only apply the property to that particular browser. Vender Prefixes in 2017. Much less necessary, but still used.
 
