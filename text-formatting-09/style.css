@@ -1,28 +1,26 @@
 .no-wrapper{
     width: 60px;
     border: 1px solid black;
-    /* padding: 10px;
-    margin: 10px;
-    background-color: lightblue;
-    text-align: center;
-    font-size: 16px;
-    font-family: Arial, sans-serif;
-    color: black;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-    border-radius: 5px;
-    display: inline-block;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    text-decoration: none;
-    cursor: pointer; */
+    /* padding: 10px; */
+    /* margin: 10px; */
+    /* background-color: lightblue; */
+    /* text-align: center; */
+    /* font-size: 16px; */
+    /* font-family: Arial, sans-serif; */
+    /* color: black; */
+    /* box-shadow: 2px 2px 5px rgba(0,0,0,0.1); */
+    /* border-radius: 5px; */
+    /* display: inline-block; */
+    /* white-space: nowrap; */
+    /* overflow: hidden; */
+    /* text-overflow: ellipsis; */
+    /* text-decoration: none; */
+    /* cursor: pointer; */
     /* transition: background-color 0.3s ease, color 0.3s ease; */
+
 }
-/* Uncomment the following lines to apply styles on hover Just for hinting purposes */
-/* .no-wrapper:hover{
+Uncomment the following lines to apply styles on hover Just for hinting purposes 
+.no-wrapper:hover{
     background-color: darkblue;
     color: white;
-} */
-
-/* ================================================== */
-/* This is a comment in CSS */
+} 
